@@ -1,11 +1,15 @@
-# Hi there, I'm 이효원! 👋
+# 초보 개발자 입니다 👋
 ![South Korea](https://img.shields.io/badge/Located%20in-South%20Korea-blue)
 
 ## About Me
-안녕하세요! 저는 이효원이라고 합니다. 한국에 거주하고 있어요. 저를 소개 해볼게요!
-Hello! My name is Hyowon Lee. I live in Korea. Let me introduce myself!
+#### 안녕하세요! 저는 이효원이라고 합니다. 한국에 거주하고 있어요. 저를 소개 해볼게요!
+<br/>
+
+####  Hello! My name is Hyowon Lee. I live in Korea. Let me introduce myself!
+<br/>
 
 ## My Skills
+
 ![Java](https://img.shields.io/badge/Java-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![JSP](https://img.shields.io/badge/JSP-orange)
