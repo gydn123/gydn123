@@ -1,4 +1,4 @@
-# 👋 방문햐 주셔서 감사합니다.! 👋
+# 👋 방문해 주셔서 감사합니다.! 👋
 ![South Korea](https://img.shields.io/badge/Located%20in-South%20Korea-blue)
 
 ## About Me
