@@ -1,8 +1,6 @@
 ## 👋 방문해 주셔서 감사합니다.! 👋
 
-![South Korea](https://img.shields.io/badge/Located%20in-South%20Korea-blue) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgydn123&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-https://www.notion.so/Hwowon-Lee-5e25e06c752d4522a1312cccad1ab22d
-https://www.notion.so/Hwowon-Lee-5e25e06c752d4522a1312cccad1ab22d?pvs=4
+![South Korea](https://img.shields.io/badge/Located%20in-South%20Korea-blue) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgydn123&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.notion.so/Hwowon-Lee-5e25e06c752d4522a1312cccad1ab22d?pvs=4](https://ivory-wrench-4d8.notion.site/Hwowon-Lee-5e25e06c752d4522a1312cccad1ab22d"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/><a/>
 
 ### About Me
 
